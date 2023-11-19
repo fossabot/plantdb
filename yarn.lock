@@ -1793,10 +1793,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@oliversalzburg/js-utils@npm:0.0.18":
-  version: 0.0.18
-  resolution: "@oliversalzburg/js-utils@npm:0.0.18"
-  checksum: e6104b9aab2393e101a8ec821a4c2e1879ae423e8a67e3f784d1ce0a3ea8164ce66c3163b6487bd9ed8a4673f194242a8a0b55d401828b8073a67611c4d5b6e7
+"@oliversalzburg/js-utils@npm:0.0.20":
+  version: 0.0.20
+  resolution: "@oliversalzburg/js-utils@npm:0.0.20"
+  checksum: 05d7581a89efab3f45e05b325b83180034c053df40a6abaec78991ab0b98dd6c7bd75187bb05824630c371651dc24ab4eb8b7bd07ea4be9480293491cabb084b
   languageName: node
   linkType: hard
 
@@ -1872,7 +1872,7 @@ __metadata:
   resolution: "@plantdb/plant-nursery@workspace:packages/plant-nursery"
   dependencies:
     "@lit-labs/context": "npm:0.5.1"
-    "@oliversalzburg/js-utils": "npm:0.0.18"
+    "@oliversalzburg/js-utils": "npm:0.0.20"
     "@oliversalzburg/lit-i18n": "npm:4.0.1"
     "@plantdb/libplantdb": "workspace:*"
     "@shoelace-style/shoelace": "npm:2.11.2"
